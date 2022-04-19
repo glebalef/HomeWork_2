@@ -23,7 +23,7 @@ public class Main {
         //Задача 3
 
         short banana = 5;
-        short milk = 200;
+        short milk = 2;
         short iceCream = 2;
         short egg = 4;
         short singleBananaWeight = 80;
